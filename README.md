@@ -4,7 +4,7 @@ Dark Room IDE Themes
 These are dark themes, primarily aimed at web development. Personally, I use them daily with WebStorm, Sublime Text, and Aptana Studio, but they are suited for other IDEs too. Many similar themes I've tried in the past had several issues, which I've tried to address here:
 
 1. If the theme had a black background, typically the foreground colors were too intense/tiring.
-2. If the theme had an off-black background to subdue the foreground colors, this was often way too light.
+2. If the theme had an off-black background to subdue the foreground colors, this was often too light.
 3. Almost all themes relegated comments to fainter colors, to accentuate code more than comments.
    I actually like to do the opposite, and make comments stand out, since I try to have meaningful comments.
    That being said, I didn't want comments to overwhelm the code, so hopefully you'll find a good compromise here.
