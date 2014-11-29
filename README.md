@@ -67,3 +67,12 @@ Other IDE settings for an optimal experience:
   * Show only monospaced fonts.
   * Primary font: "Source Code Pro", size 14, line spacing 1.0.
   * You can find Source Code Pro in the /fonts folder of this project.
+
+---
+
+Screenshots
+-----------
+
+![Dark Room (Normal)](/jetbrains/screenshots/html.png?raw=true "HTML File")
+![Dark Room (Normal)](/jetbrains/screenshots/css.png?raw=true "CSS File")
+![Dark Room (Normal)](/jetbrains/screenshots/js.png?raw=true "JavaScript File")
