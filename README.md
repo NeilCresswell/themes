@@ -73,6 +73,7 @@ Other IDE settings for an optimal experience:
 Screenshots
 -----------
 
-![Dark Room (Normal)](/jetbrains/screenshots/html.png?raw=true "HTML File")
-![Dark Room (Normal)](/jetbrains/screenshots/css.png?raw=true "CSS File")
-![Dark Room (Normal)](/jetbrains/screenshots/js.png?raw=true "JavaScript File")
+![WebStorm Screenshot](/jetbrains/screenshots/js.png?raw=true "Dark Room (Normal) - JavaScript File")
+![WebStorm Screenshot](/jetbrains/screenshots/css.png?raw=true "Dark Room (Normal) - CSS File")
+![WebStorm Screenshot](/jetbrains/screenshots/html.png?raw=true "Dark Room (Normal) - HTML File")
+
