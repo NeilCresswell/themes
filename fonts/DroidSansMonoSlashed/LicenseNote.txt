@@ -1,0 +1,6 @@
+Released under the Apache 2.0 license:
+http://www.apache.org/licenses/LICENSE-2.0.txt
+
+Source:
+http://www.cosmix.org/software/#DroidSansDotted
+Per source, Droid Sans Mono (C) Ascender Corp.

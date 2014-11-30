@@ -37,6 +37,18 @@ Textmate Themes
   * Dark Room (Normal) has a slightly off-black background so the colors are more subdued.
   * Dark Room (Contrast) has a full black (#000) background for use on laptops, etc.
 
+How to install in Aptana Studio:
+
+1. Window / Preferences / Aptana Studio / Themes / Import / point to .tmTheme file.
+
+Other IDE settings for an optimal experience:
+
+1. Window / Preferences / General / Appearance / pick Dark Studio theme with mixed colors
+2. Window / Preferences / Aptana Studio / Themes / Font:
+  * Droid Sans Mono Slashed 11 pt.
+  * Check "Apply to all (non-Studio) editors"
+  * You can find Droid Sans Mono Slashed in the /fonts folder of this project.
+
 ---
 
 JetBrains Theme
@@ -45,7 +57,7 @@ JetBrains Theme
 *Suitable for **WebStorm***.
 
 * Developed and tested with WebStorm 9.
-* Probably works with other JetBrains products such as PHPStorm. *(Feedback appreciated.)*
+* Probably works with other JetBrains products such as Android Studio and PHPStorm.
 * Uses the Dark Room Texmate theme colors as a starting point, but with additional refinements.
 
 How to install:
