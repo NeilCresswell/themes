@@ -56,7 +56,7 @@ JetBrains Theme
 
 *Suitable for **WebStorm***.
 
-* Developed and tested with WebStorm 9.
+* Developed and tested with WebStorm 9 for HTML, CSS and JavaScript.
 * Probably works with other JetBrains products such as Android Studio and PHPStorm.
 * Uses the Dark Room Texmate theme colors as a starting point, but with additional refinements.
 
