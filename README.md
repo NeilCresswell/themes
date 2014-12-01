@@ -14,10 +14,10 @@ All themes have been tested with the following file types:
 * CSS/CSS3
 * HTML/HTML5
 * JavaScript (inline and .js)
-* JSON
 * PHP (inline and js)
-* SQL
-* XML
+* JSON (Sublime only)
+* SQL (Sublime only)
+* XML (Sublime only)
 
 If you have any suggestions or feedback, please feel free to chime in:
 https://github.com/NeilCresswell/themes/issues
