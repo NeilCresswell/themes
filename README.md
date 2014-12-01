@@ -62,13 +62,13 @@ JetBrains Theme
 
 How to install:
 
-1. File / Import Settings / point to DarkRoomNormal.jar file and click OK
-2. File / Settings / Colors & Fonts / select "Dark Room - Normal" and click OK
+1. File / Import Settings / point to DarkRoom.jar file and click OK
+2. File / Settings / Colors & Fonts / select "Dark Room" and click OK
 
 There is no high contrast version since in WebStorm, this can be achieved with a single change:
 
 1. File / Settings / Colors & Fonts / General / Default text / click on background colour
-2. Enter "000000" into the "#" box or pick an appropriate color of your choice.
+2. Enter "000000" into the "#" box or pick an appropriate background color of your choice.
 
 Other IDE settings for an optimal experience:
 
