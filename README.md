@@ -29,11 +29,11 @@ I'd love to come up with a Visual Studio theme based off of these, but don't hav
 Textmate Themes
 ---------------
 
-*Suitable for **Sublime Text*** *and **Eclipse***-based IDEs such as **Aptana Studio***.
+*Suitable for **Sublime Text 2/3*** *and **Eclipse***-based IDEs such as **Aptana Studio***.
 
 * Developed with Aptana Studio 3.
 * Tested against Aptana Studio 3 and Sublime Text 3.
-* [GitGutter](https://github.com/jisaacks/GitGutter) support added for Sublime Text 3. *(Untested. Feedback appreciated.)*
+* [GitGutter](https://github.com/jisaacks/GitGutter) support added for Sublime Text 2/3.
 * Comes in two flavours:
   * Dark Room (Normal) has a slightly off-black background so the colors are more subdued.
   * Dark Room (Contrast) has a full black (#000) background for use on laptops, etc.
