@@ -1,7 +1,9 @@
 Dark Room IDE Themes
 ====================
 
-These are dark themes, primarily aimed at web development. Personally, I use them daily with WebStorm, Sublime Text, and Aptana Studio, but they are suited for other IDEs too. Many similar themes I've tried in the past had several issues, which I've tried to address here:
+These are dark themes, primarily aimed at web development. Personally, I use them daily with WebStorm, Sublime Text, and Aptana Studio, but they are suited for many other IDEs too. Versions for Notepad++ have been included too, in case you want to have a consistent look in all of your editors.
+
+Many similar themes I've tried in the past had several issues, which I've tried to address here:
 
 1. If the theme had a black background, typically the foreground colors were too intense/tiring.
 2. If the theme had an off-black background to subdue the foreground colors, this was often too light.
@@ -52,8 +54,8 @@ Other IDE settings for an optimal experience:
 
 ---
 
-JetBrains Theme
----------------
+JetBrains Themes
+----------------
 
 *Suitable for **WebStorm***.
 
@@ -80,6 +82,15 @@ Other IDE settings for an optimal experience:
   * Show only monospaced fonts.
   * Primary font: "Source Code Pro", size 14, line spacing 1.0.
   * You can find Source Code Pro in the /fonts folder of this project.
+
+---
+
+NotePad++ Themes
+----------------
+
+These are a conversion of the Textmate themes so they can be used in Notepad++.
+However, since Notepad++ doesn't provide great syntax highlighting, typically
+themes with brighter highlighting are more suitable for this particular IDE.
 
 ---
 
